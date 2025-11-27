@@ -73,5 +73,4 @@
 * 🐕 Animal Welfare
 * 🏏 Sports & Travelling
 
----
-![Arin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arin-Roy&show_icons=true&theme=radical)
+
