@@ -2,7 +2,7 @@
 
 🎓 **Final-year B.Tech CSE student** at KIIT University, Bhubaneswar (Graduating 2026)
 💡 Passionate about **Data Analytics, Machine Learning, and Building Scalable Tech Solutions**
-📊 Experienced in research-driven analysis, dashboarding, and end-to-end ML workflows
+🌐 Experienced in research-driven analysis, dashboarding, and end-to-end ML workflows
 🐾 Strong believer in "learning by doing" — and giving back through tech & community work
 
 **📫 Reach me:**
